@@ -18,7 +18,7 @@ class PageWrapper extends Component {
                         <li className="nav-item mx-0 mx-lg-1"><Link className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" to="/skills">Skills</Link></li>
                         <li className="nav-item mx-0 mx-lg-1"><Link className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" to="/about">About Me</Link></li>
                         <li className="nav-item mx-0 mx-lg-1"><Link className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" to="/contact">Contact</Link></li>
-                        <li className="nav-item mx-0 mx-lg-1"><a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://smallpdf.com/result#r=88383cbdb72f6c662b54204c307f13a2&t=share-document">Resume</a></li>
+                        <li className="nav-item mx-0 mx-lg-1"><a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:7eade0d5-09c2-41cf-bd82-49403065402b">Resume</a></li>
                     </ul>
                 </div>
             </div>
