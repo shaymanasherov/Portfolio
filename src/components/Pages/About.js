@@ -14,12 +14,15 @@ class About extends Component {
                             <div className="divider-custom-line"></div>
                         </div>
                         <div className="row">
-                            <div className="col-lg-4 ml-auto"><p className="lead">My name is Shay, i'm a 4th-year Software Engineering Student.<br></br> Looking for my first position</p></div>
-                            <div className="col-lg-4 mr-auto"><p className="lead">I am looking for a job with good vibes where I can express my skills and grow in it.
-You are welcome to look at the attached projects and resume.
-If you think there may be a match between us, feel free to contact me on the contact page. </p></div>
-                        </div>
-                    </div>
+                        Hi, I'm Shay.<br></br>
+I am currently a fourth year student at Sami Shimon Ashdod College studying software engineering.
+During my studies I acquired knowledge in a variety of languages ​​and the ability to learn languages ​​independently.
+My passion is to learn new things, which I am eager to do, I am interested in a career in software engineering where I can deepen my knowledge on the one hand, and use the knowledge and experience I already have on the other. I am 27 years old and looking forward to many years of successful employment.
+I have a strong work ethic, accuracy in small details, good interpersonal skills, ability to perform multiple tasks in a short time, and I am a responsible person.
+Job offers are welcome.<br></br> Please feel free to contact me on ✉Shay28xz@gmail.com or Social Media.
+
+</div></div>
+                   
         </section>
             </div>
         );
